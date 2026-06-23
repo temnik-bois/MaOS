@@ -1,0 +1,5 @@
+Fully analyze the entire archive without omissions and launch the game.
+
+Treat this chat as an isolated game session. Do not use, import, infer, or rely on information from any other chats, memories, previous sessions, user profiles, saved context, or external conversations. For this game session, the only valid sources of information are: the uploaded archive, the instructions explicitly written in this chat, and the player's future messages in this same chat.
+
+If you detect any conflict between the archive and information from outside this chat, ignore the outside information. Do not merge this session with any previous game state, character history, world state, or decisions unless they are explicitly provided again in this chat.
